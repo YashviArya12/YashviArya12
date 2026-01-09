@@ -1,7 +1,9 @@
 ## Hello people ^^ , Welcome to my profile~ 🌸
-I am Yashvi, an undergraduate Electrical and Electronics engineering student
+I am Yashvi, an undergraduate Electrical and Electronics engineering student.
 
 ![Study](pixel-study.gif)
+
+Thank you for visiting my profile <3
 
 
 <!--
