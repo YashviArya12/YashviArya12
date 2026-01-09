@@ -1,4 +1,6 @@
 ## Hello people ^^ , Welcome to my profile~ 🌸
+I am Yashvi, an undergraduate Electrical and Electronics engineering student
+
 
 
 <!--
